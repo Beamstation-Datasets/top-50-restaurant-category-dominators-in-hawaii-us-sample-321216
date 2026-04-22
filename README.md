@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Hawaii, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `321216` |
 | Location | Hawaii |
 | Category | Restaurants |
-| Full dataset size | 50 records |
-| Free sample size | 5 records (10.0%) |
-| Last export | 2026-04-14T23:59:52.190997+00:00 |
+| Full dataset size | 72 records |
+| Free sample size | 7 records (9.72%) |
+| Last export | 2026-04-22T03:50:41.640176+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-hawaii-us-sample-321216/releases/download/sample-latest/beamstation_321216_restaurants-us-hi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
