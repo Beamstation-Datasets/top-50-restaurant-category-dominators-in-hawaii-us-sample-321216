@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fdb95104-697b-46a5-9c74-f5b90f90baff",
+  "export_job_id": "dc03bee0-5b05-4878-9033-e43a6c67c36d",
   "id_short": 321216,
-  "published_at": "2026-04-18T07:52:00Z",
+  "published_at": "2026-04-22T07:21:41Z",
   "repo_name": "top-50-restaurant-category-dominators-in-hawaii-us-sample-321216",
   "sample_asset_name": "beamstation_321216_restaurants-us-hi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/321216/beamstation_321216_restaurants-us-hi_SAMPLE_DIST.csv",
-  "sample_records": 5,
-  "sample_sha256": "ba6da251d133fa8eb17127b7b620aac131aaf64660ca34cef99d7612eab4c9eb",
-  "sample_size_bytes": 39494,
-  "total_records": 50
+  "sample_records": 7,
+  "sample_sha256": "8927e06394bf1deaa61cd7f40d63d5a8ae4b70dc6c2810dd622fecafb20b7cd2",
+  "sample_size_bytes": 47985,
+  "total_records": 72
 }
